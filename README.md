@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felipeufsc
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning AI and Machine Learning
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning AI and Machine Learning in Caltech/USA Post Graduate
+- 💞️ I’m looking to collaborate on Python coding
 - 📫 How to reach me felipeufsc@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:I'm 1/3 Brazilian, 1/3 Italian and 1/3 British
